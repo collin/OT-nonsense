@@ -1,0 +1,4 @@
+I was messing around with implementing Operational Transformation
+before I discovered https://github.com/josephg/ShareJS/
+
+
